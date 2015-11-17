@@ -237,7 +237,7 @@ Classes
 
     .. py:method:: header(content, level)
 
-        ``level`` can be a humber from 1 to 6.
+        ``level`` can be a number from 1 to 6.
 
     .. py:method:: hrule()
 
